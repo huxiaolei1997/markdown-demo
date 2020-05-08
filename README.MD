@@ -2,11 +2,11 @@ v2ray客户端是一个正向代理软件，需要安装在客户端，所以需
 
 # 使用系统代理设置
 ## 首先选中使用系统代理设置，然后保存配置。
-![](https://imgchr.com/i/Ynv6oD)
+![](https://s1.ax1x.com/2020/05/08/Ynv6oD.png)
 
 ## 接着打开v2ray客户端，选中 开启PAC，并自动配置PAC（PAC模式）
-![](https://imgchr.com/i/YnvseK)
+![](https://s1.ax1x.com/2020/05/08/YnvseK.png)
 
 # 手动代理配置
-![](https://imgchr.com/i/YnvydO)
+![](https://s1.ax1x.com/2020/05/08/YnvydO.png)
 需要注意的是，使用手动代理，默认的如果没有设置不使用代理的url（红框），那么是全局代理，即使你访问的是国内的网址。推荐使用使用系统代理设置。
